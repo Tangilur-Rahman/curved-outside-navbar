@@ -94,7 +94,6 @@ const CurvedOutsideNavbar = () => {
 					<li
 						className={`list ${home ? "active" : ""}`}
 						onClick={homeClick}
-						name="home"
 					>
 						<a href="#">
 							<span className="icon">

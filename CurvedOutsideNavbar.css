@@ -95,7 +95,7 @@
    z-index: 1;
 }
 
-.title{
+.navigation ul li a .title{
 
    position: relative;
    display: block;
